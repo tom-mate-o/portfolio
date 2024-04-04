@@ -1,3 +1,14 @@
 {
-  "custom-field": "Home Content"
+  "custom-field": "Home Content",
+  "custom-list": [
+    {},
+    {
+      "custom-list-item": "sdasd"
+    },
+    {
+      "custom-list-item": "asdasd"
+    },
+    {},
+    {}
+  ]
 }
