@@ -1,1 +1,15 @@
-{}
+{
+  "custom-field": "Test",
+  "custom-object": {
+    "custom-line": "Test object",
+    "custom-text": "Hallo Hall Test Test"
+  },
+  "custom-list": [
+    {
+      "custom-list-item": "dgdfgdgdfg"
+    },
+    {
+      "custom-list-item": "fghdfgkjhdfgkjfdh"
+    }
+  ]
+}
