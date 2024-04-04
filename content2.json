@@ -12,12 +12,17 @@
       "custom-list-item": "fghdfgkjhdfgkjfdh"
     }
   ],
-  "custom-list": [
+  "new-field": "Neuer Wert",
+  "new-object": {
+    "new-line": "Neues Objekt",
+    "new-text": "Neuer Text"
+  },
+  "new-list": [
     {
-      "custom-list-item": "dgdfgdgdfg"
+      "new-list-item": "Neuer Listeneintrag 1"
     },
     {
-      "custom-list-item": "fghdfgkjhdfgkjfdh"
+      "new-list-item": "Neuer Listeneintrag 2"
     }
   ]
 }
