@@ -1,25 +1,22 @@
 {
-  "custom-field": "Home Content",
-  "custom-list": [
-    {},
+  "projects": [
     {
-      "custom-list-item": "sdasd"
+      "id": 4,
+      "name": "Tom Kra",
+      "tags": ["All", "Website", "React", "JavaScript", "Node", "SASS", "CSS"],
+      "text": "Gimme5 was a social media app project for Codingschule.de. I built it together with my colleague Kathrin as a full-stack, single-page web application. The idea was to build a platform where you can share your five favourite things with the world. The app has a login and registration system, a feed where you can see all the posts of the users you follow, a profile page where you can see all your own posts and edit your profile, and a like and comment system.",
+      "images": [
+        "imggimme5_1.jpg",
+        "imggimme5_2.jpg",
+        "imggimme5_3.jpg",
+        "imggimme5_4.jpg",
+        "imggimme5_5.jpg",
+        "imggimme5_6.jpg"
+      ],
+      "linkto": "/gimme5",
+      "github": "https://github.com/tom-mate-o/Social-App-Gimme5",
+      "demo": ""
     },
-    {
-      "custom-list-item": "asdasd"
-    },
-    {},
-    {}
-  ],
-  "custom-list2": [
-    {},
-    {
-      "custom-list-item2": "22sdasd"
-    },
-    {
-      "custom-list-item2": "22asdasd"
-    },
-    {},
-    {}
-  ],
+    // Weitere Projekte...
+  ]
 }
